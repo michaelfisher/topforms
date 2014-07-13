@@ -1,3 +1,7 @@
+<div id="contact-header">
+	<button class="btn btn-primary">Contact Us!</button>
+</div>
+
 <div id="carousel" class="carousel slide" data-ride="carousel">
 	<!-- Indicators -->
 	<ol class="carousel-indicators">

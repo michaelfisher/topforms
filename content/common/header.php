@@ -41,7 +41,7 @@
 
 	</head>
 
-	<body data-spy="scroll" data-target="#bs-navbar-collapse">
+	<body>
 
 	<!--Insert Google Analytics Code Here-->
 	

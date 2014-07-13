@@ -1,5 +1,7 @@
 body {
-	background-color: #c0c0c0;
+	padding-top: 25px;
+	background-image: url('../img/backgrounds/concrete2.jpg');
+	background-size: cover;
 }
 
 /*Content*/
@@ -7,9 +9,22 @@ body {
 	max-width: 1000px;
 }
 
+/*Contact Header*/
+#contact-header {
+	text-align: right;
+}
+
+#contact-header button {
+	box-shadow: 3px 3px 10px rgba(0,0,0,0.5);
+	background-color: #3e3e40;
+	border-color: #404040;
+	font-family: "Novecento Sans Wide Light";
+}
+
 /*Carousel*/
 .carousel {
-	margin-top: 25px;
+	margin-top: 5px;
+	box-shadow: 3px 3px 10px rgba(0,0,0,0.5);
 }
 
 .carousel-control {
@@ -25,6 +40,10 @@ body {
 	bottom: -30px;
 }
 
+.carousel-indicators .active {
+	background-color: rgba(256,256,256,0.5);
+}
+
 /*Info*/
 #info {
 	margin-top: 50px;
@@ -33,6 +52,7 @@ body {
 .info-content {
 	padding: 15px 0;
 	border-radius: 7px;
+	box-shadow: 3px 3px 10px rgba(0,0,0,0.50);
 }
 
 .info-content h2 {
@@ -54,20 +74,23 @@ body {
 
 .info-content .info-button button {
 	width: 100%;
-	background-color: #707070;
-	border-color: #808080;
+	background-color: #3e3e40;
+	border-color: #404040;
 }
 
 #info-1 .info-content {
 	background-color: rgb(203,187,155);
+	border: 2px solid rgb(200, 180, 150);
 }
 
 #info-2 .info-content {
 	background-color: rgb(178,174,154);
+	border: 2px solid rgb(170, 170, 150);
 }
 
 #info-3 .info-content {
 	background-color: rgb(218,213,193);
+	border: 2px solid rgb(210, 210, 190);
 }
 
 /*Footer*/
