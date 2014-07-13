@@ -2,7 +2,7 @@
 <div id="footer" class="container">
 	<div id="copyright">
 		<p>
-			Copyright &copy; <?php echo date('Y'); ?> TopForms. All rights reserved.
+			Copyright &copy; <?php echo date('Y'); ?> Top Forms. All rights reserved.
 		</p>
 	</div>
 </div>

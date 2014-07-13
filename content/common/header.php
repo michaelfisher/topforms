@@ -5,8 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="keywords" content="">
 		<meta name="description" content="">
-		<meta name="author" content="TopForms">
-		<meta name="title" content="TopForms">
+		<meta name="author" content="Top Forms">
+		<meta name="title" content="Top Forms">
 		<link rel="shortcut icon" href="favicon.png?v=2">
 		<!--
 		<link rel="canonical" href="http://topforms.com/" />
@@ -16,7 +16,7 @@
 		<meta property="og:description" content="" />
 	-->
 
-		<title>TopForms</title>
+		<title>Top Forms</title>
 
 		<!--Bootstrap core CSS-->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -24,9 +24,11 @@
 		<!--Font Awesome-->
 		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
 
-		<!--Locator-->
-		<link href="css/locator-light.css" rel="stylesheet">
-		<link href="css/locator-black.css" rel="stylesheet">
+		<!--Novecento-->
+		<link href="fonts/novecento/novecento.css" rel="stylesheet">
+
+		<!--Vevey-->
+		<link href="fonts/vevey/vevey.css" rel="stylesheet">
 
 		<!--Custom styles for this template-->
 		<link href="css/style.css" rel="stylesheet">

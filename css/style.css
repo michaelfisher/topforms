@@ -25,16 +25,56 @@ body {
 	bottom: -30px;
 }
 
+/*Info*/
+#info {
+	margin-top: 50px;
+}
+
+.info-content {
+	padding: 15px 0;
+	border-radius: 7px;
+}
+
+.info-content h2 {
+	margin-top: 0;
+	text-align: center;
+	font-family: "Vevey";
+	font-size: 40px;
+}
+
+.info-content p {
+	margin: 0 10px;
+}
+
+.info-content .info-button {
+	width: 50%;
+	margin: 15px auto 0 auto;
+	font-family: "Novecento Sans Wide Light";
+}
+
+.info-content .info-button button {
+	width: 100%;
+	background-color: #707070;
+	border-color: #808080;
+}
+
+#info-1 .info-content {
+	background-color: rgb(203,187,155);
+}
+
+#info-2 .info-content {
+	background-color: rgb(178,174,154);
+}
+
+#info-3 .info-content {
+	background-color: rgb(218,213,193);
+}
+
 /*Footer*/
 #footer {
 	width: 100%;
-	position: fixed;
-	bottom: 0;
+	margin-top: 75px;
 	background-color: #404040;
-}
-
-#copyright {
-	
 }
 
 #copyright p {

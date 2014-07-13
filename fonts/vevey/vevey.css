@@ -1,0 +1,13 @@
+/*Vevey*/
+
+@font-face {
+    font-family: 'Vevey';
+    src: url('vevey.eot');
+    src: url('vevey.eot?#iefix') format('embedded-opentype'),
+         url('vevey.woff') format('woff'),
+         url('vevey.ttf') format('truetype'),
+         url('vevey.svg#veveyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

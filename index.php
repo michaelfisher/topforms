@@ -4,6 +4,7 @@
 	<div class="row">
 
 		<?php include 'content/slider.php'; ?>
+		<?php include 'content/info.php'; ?>
 
 	</div><!--.row-->
 </div><!--#content-container-->
