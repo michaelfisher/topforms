@@ -14,21 +14,12 @@
 	<div class="carousel-inner">
 		<div class="item active">
 			<img src="img/carousel/0.jpg" alt="...">
-			<div class="carousel-caption">
-				...
-			</div>
 		</div>
 		<div class="item">
 			<img src="img/carousel/0.jpg" alt="...">
-			<div class="carousel-caption">
-				...
-			</div>
 		</div>
 		<div class="item">
 			<img src="img/carousel/0.jpg" alt="...">
-			<div class="carousel-caption">
-				...
-			</div>
 		</div>
 	</div>
 
