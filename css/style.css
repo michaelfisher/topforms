@@ -27,6 +27,9 @@ body {
 /*Carousel*/
 .carousel {
 	margin-top: 5px;
+}
+
+.carousel-inner {
 	box-shadow: 3px 3px 10px rgba(0,0,0,0.5);
 }
 

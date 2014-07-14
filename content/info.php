@@ -1,4 +1,4 @@
-<div id="info">
+<div id="info" class="col-xs-12">
 		
 	<div id="info-1" class="col-md-4">
 		<div class="info-content">

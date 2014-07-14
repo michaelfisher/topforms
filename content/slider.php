@@ -1,8 +1,8 @@
-<div id="contact-header">
+<div id="contact-header" class="col-xs-12">
 	<button class="btn btn-primary">Contact Us!</button>
 </div>
 
-<div id="carousel" class="carousel slide" data-ride="carousel">
+<div id="carousel" class="carousel slide col-xs-12" data-ride="carousel">
 	<!-- Indicators -->
 	<ol class="carousel-indicators">
 		<li data-target="#carousel" data-slide-to="0" class="active"></li>
