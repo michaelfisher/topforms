@@ -6,9 +6,8 @@ body {
 
 /*Content*/
 #content-container {
-	max-width: 1000px;
 	padding: 35px;
-	background-color: #e0e0e0;
+	background-color: rgba(256,256,256,0.75);
 	border-radius: 7px;
 }
 
