@@ -15,7 +15,7 @@ if (!empty ($_POST["name"])
 ) {
 	 
 	//Compile components of the email
-	$headers = 	"From: Top Forms <no-reply@topforms.com>\n";
+	$headers = 	"From: HeavenlyLevels.com <no-reply@heavenlylevels.com>\n";
 	$headers .= "Reply-To: $sender";
 
 	$subject = 	"New Message From: $name";
@@ -24,11 +24,8 @@ if (!empty ($_POST["name"])
 							"Message:\n\n".
 							"$message";
 
-	$email = array($recipient,$subject,$body,$headers);
-	print_r($email);
-	exit;
 	//Send the email
-	mail($email);
+	mail($recipient,$subject,$body,$headers);
 
 	//Save POSTed data to success logfile
 	$logfile = 	fopen("contact-form-success.log","a");

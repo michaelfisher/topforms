@@ -9,11 +9,11 @@
 				<form id="contact-form" name="contact" role="form">
 					<div class="form-group">
 			      <label for="name">Your Name:</label>
-			      <input type="text" name="name" class="form-control" placeholder="Full Name">
+			      <input type="text" name="name" class="form-control" placeholder="Mary Poppins">
 			    </div>
 			    <div class="form-group">
 			      <label for="email">Your E-mail:</label>
-			      <input type="email" name="email" class="form-control" placeholder="user@domain.com">
+			      <input type="email" name="email" class="form-control" placeholder="spoonful@ofsugar.com">
 			    </div>
 			    <div class="form-group">
 			      <label for="message">Message:</label>

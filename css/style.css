@@ -122,6 +122,9 @@ body {
 }
 
 /*---Contact Form---*/
+#contact .modal-header {
+	border: none;
+}
 
 #contact .modal-footer {
 	padding: 0;
