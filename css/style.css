@@ -1,6 +1,6 @@
 body {
 	padding-top: 25px;
-	background-image: url('../img/backgrounds/concrete2.jpg');
+	background-image: url('../img/backgrounds/concrete.jpg');
 	background-size: cover;
 }
 
@@ -20,7 +20,7 @@ body {
 	box-shadow: 3px 3px 10px rgba(0,0,0,0.5);
 	background-color: #3e3e40;
 	border-color: #404040;
-	font-family: "Novecento Sans Wide Light";
+	font-family: "Novecento Sans Wide Book";
 }
 
 #contact-header button:hover {
@@ -74,12 +74,13 @@ body {
 
 .info-content p {
 	margin: 0 10px;
+	font-family: 'Crimson';
 }
 
 .info-content .info-button {
 	width: 50%;
 	margin: 15px auto 0 auto;
-	font-family: "Novecento Sans Wide Light";
+	font-family: "Novecento Sans Wide Book";
 }
 
 .info-content .info-button button {

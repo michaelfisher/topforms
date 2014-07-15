@@ -24,11 +24,14 @@
 		<!--Font Awesome-->
 		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
 
+		<!--Vevey-->
+		<link href="fonts/vevey/vevey.css" rel="stylesheet">
+
 		<!--Novecento-->
 		<link href="fonts/novecento/novecento.css" rel="stylesheet">
 
-		<!--Vevey-->
-		<link href="fonts/vevey/vevey.css" rel="stylesheet">
+		<!--Crimson-->
+		<link href="fonts/crimson/crimson.css" rel="stylesheet">
 
 		<!--Custom styles for this template-->
 		<link href="css/style.css" rel="stylesheet">

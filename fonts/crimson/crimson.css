@@ -1,0 +1,12 @@
+/*Crimson*/
+
+@font-face {
+    font-family: 'Crimson';
+    src: url('crimson.eot');
+    src: url('crimson.eot?#iefix') format('embedded-opentype'),
+         url('crimson.woff') format('woff'),
+         url('crimson.ttf') format('truetype'),
+         url('crimson.svg#crimson') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
