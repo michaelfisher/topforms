@@ -24,10 +24,11 @@ if (!empty ($_POST["name"])
 							"Message:\n\n".
 							"$message";
 
-	//print_r($recipient,$subject,$body,$headers);
+	$email = array($recipient,$subject,$body,$headers);
+	print_r($email);
 	exit;
 	//Send the email
-	mail($recipient,$subject,$body,$headers);
+	mail($email);
 
 	//Save POSTed data to success logfile
 	$logfile = 	fopen("contact-form-success.log","a");
