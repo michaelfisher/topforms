@@ -1,5 +1,5 @@
 <div id="contact-header" class="col-xs-12">
-	<button class="btn btn-primary">Contact Us!</button>
+	<button class="btn btn-primary" data-toggle="modal" data-target="#contact">Contact Us!</button>
 </div>
 
 <div id="carousel" class="carousel slide col-xs-12" data-ride="carousel">

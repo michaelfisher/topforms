@@ -23,6 +23,10 @@ body {
 	font-family: "Novecento Sans Wide Light";
 }
 
+#contact-header button:hover {
+	background-color: #303030;
+}
+
 /*Carousel*/
 .carousel {
 	margin-top: 5px;
@@ -84,6 +88,10 @@ body {
 	border-color: #404040;
 }
 
+.info-content .info-button button:hover {
+	background-color: #303030;
+}
+
 #info-1 .info-content {
 	background-color: rgb(203,187,155);
 	border: 2px solid rgb(200, 180, 150);
@@ -111,6 +119,29 @@ body {
 	text-align: center;
 	color: #c0c0c0;
 	font-size: 10px;
+}
+
+/*---Contact Form---*/
+
+#contact .modal-footer {
+	padding: 0;
+	border: none;
+}
+
+#contact-buttons {
+	float: left;
+}
+
+#submit-status {
+	line-height: 34px;
+}
+
+#submit-status .alert-success {
+border-color: #7ec97f;
+}
+
+#submit-status .alert-danger {
+border-color: #dd9a98;
 }
 
 /*Custom Media Queries*/
