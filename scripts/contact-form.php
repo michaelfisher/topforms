@@ -24,7 +24,7 @@ if (!empty ($_POST["name"])
 							"Message:\n\n".
 							"$message";
 
-	print_r($recipient,$subject,$body,$headers);
+	//print_r($recipient,$subject,$body,$headers);
 	exit;
 	//Send the email
 	mail($recipient,$subject,$body,$headers);
