@@ -15,7 +15,7 @@ if (!empty ($_POST["name"])
 ) {
 	 
 	//Compile components of the email
-	$headers = 	"From: HeavenlyLevels.com <no-reply@heavenlylevels.com>\n";
+	$headers = 	"From: Top Forms <no-reply@topforms.com>\n";
 	$headers .= "Reply-To: $sender";
 
 	$subject = 	"New Message From: $name";

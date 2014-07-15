@@ -9,15 +9,15 @@
 				<form id="contact-form" name="contact" role="form">
 					<div class="form-group">
 			      <label for="name">Your Name:</label>
-			      <input type="text" name="name" class="form-control" placeholder="Mary Poppins">
+			      <input type="text" name="name" class="form-control" placeholder="Your Name">
 			    </div>
 			    <div class="form-group">
 			      <label for="email">Your E-mail:</label>
-			      <input type="email" name="email" class="form-control" placeholder="spoonful@ofsugar.com">
+			      <input type="email" name="email" class="form-control" placeholder="user@domain.com">
 			    </div>
 			    <div class="form-group">
 			      <label for="message">Message:</label>
-			      <textarea name="message" class="form-control" rows="5" placeholder="I think you're awesome-sauce!"></textarea>
+			      <textarea name="message" class="form-control" rows="5" placeholder="Your Message"></textarea>
 			    </div>
 		    </form>
 	      <div class="modal-footer">
