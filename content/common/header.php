@@ -46,6 +46,19 @@
 
 	<body>
 
+		<div id="header-container" class="container">
+			<div class="row">
+				<div id="header" class="col-xs-12">
+					<div id="logo" class="col-xs-12 col-md-6">
+						<img class="pull-left" src="img/logos/logo.png"></img>
+					</div>
+					<div id="contact-button" class="col-xs-12 col-md-6">
+						<button class="btn btn-lg btn-primary pull-right" data-toggle="modal" data-target="#contact">Contact Us!</button>
+					</div>
+				</div>
+			</div><!--.row-->
+		</div><!--#header-container-->
+
 	<!--Insert Google Analytics Code Here-->
 	
 	<!--End Google Analytics-->

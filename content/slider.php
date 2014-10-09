@@ -1,12 +1,3 @@
-<div id="contact-header" class="col-xs-12">
-	<div id="logo" class="col-xs-12 col-md-6">
-		<img class="pull-left" src="img/logos/logo.png"></img>
-	</div>
-	<div id="contact-button" class="col-xs-12 col-md-6">
-		<button class="btn btn-lg btn-primary pull-right" data-toggle="modal" data-target="#contact">Contact Us!</button>
-	</div>
-</div>
-
 <div id="carousel" class="carousel slide col-xs-12" data-ride="carousel">
 	<!-- Indicators -->
 	<ol class="carousel-indicators">

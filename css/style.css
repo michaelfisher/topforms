@@ -4,41 +4,48 @@ body {
 	background-size: cover;
 }
 
+/*Header*/
+#header-container {
+	padding: 35px 35px 0 35px;
+	background-color: rgba(256,256,256,0.75);
+	border-radius: 7px 7px 0 0;
+}
+
 /*Content*/
 #content-container {
-	padding: 35px;
+	padding: 0 35px 35px 35px;
 	background-color: rgba(256,256,256,0.75);
-	border-radius: 7px;
+	border-radius: 0 0 7px 7px;
 }
 
 /*Contact Header*/
-#contact-header {
+#header {
 	position: relative;
 }
 
-#contact-header #logo {
+#header #logo {
 	padding: 0;
 }
 
-#contact-header #logo img {
+#header #logo img {
 	max-width: 100%;
 }
 
-#contact-header #contact-button {
+#header #contact-button {
 	padding: 0;
 	position: absolute;
 	bottom: 0;
 	right: 15px;
 }
 
-#contact-header #contact-button button {
+#header #contact-button button {
 	box-shadow: 3px 3px 10px rgba(0,0,0,0.5);
 	background-color: #3e3e40;
 	border-color: #404040;
 	font-family: "Novecento Sans Wide Book";
 }
 
-#contact-header button:hover {
+#header button:hover {
 	background-color: #303030;
 }
 
@@ -171,22 +178,22 @@ border-color: #dd9a98;
 
 /*Bootstrap Based Media Queries*/
 @media(max-width:991px){
-	#contact-header #logo {
+	#header #logo {
 		text-align: center;
 	}
 
-	#contact-header #logo img {
+	#header #logo img {
 		float: none !important;
 	}
 
-	#contact-header #contact-button {
+	#header #contact-button {
 		margin-top: 20px;
 		position: relative;
 		right: 0;
 		text-align: center;
 	}
 
-	#contact-header #contact-button button {
+	#header #contact-button button {
 		float: none !important;
 	}
 }
