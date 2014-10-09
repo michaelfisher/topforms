@@ -13,10 +13,17 @@ body {
 
 /*Contact Header*/
 #contact-header {
-	text-align: right;
+	position: relative;
+}
+
+#contact-header #logo {
+	max-height: 75px;
 }
 
 #contact-header button {
+	position: absolute;
+	bottom: 0;
+	right: 15px;
 	box-shadow: 3px 3px 10px rgba(0,0,0,0.5);
 	background-color: #3e3e40;
 	border-color: #404040;
