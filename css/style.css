@@ -168,6 +168,10 @@ body {
 	line-height: 34px;
 }
 
+#submit-status .alert-info {
+border-color: #627bbb;
+}
+
 #submit-status .alert-success {
 border-color: #7ec97f;
 }

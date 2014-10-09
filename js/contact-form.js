@@ -32,6 +32,10 @@ $(document).ready(function () {
                 type: "POST",
                 url: "scripts/contact-form.php",
                 data: $("#contact-form").serialize(),
+                pending: function(msg){
+                    $("#submit-status").html(msg)
+                    $("#submit-status").fadeIn();
+                },
                 success: function(msg){
                     $("#contact-form")[0].reset();
                     $("#submit-status").html(msg)

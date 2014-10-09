@@ -25,6 +25,7 @@ if (!empty ($_POST["name"])
 							"$message";
 
 	//Send the email
+	echo "<span class=\"alert alert-info fade in\" >Sending Message...</span>";
 	mail($recipient,$subject,$body,$headers);
 
 	//Save POSTed data to success logfile
