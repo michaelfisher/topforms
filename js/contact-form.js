@@ -32,18 +32,14 @@ $(document).ready(function () {
                 type: "POST",
                 url: "scripts/contact-form.php",
                 data: $("#contact-form").serialize(),
-                pending: function(msg){
-                    $("#submit-status").html(msg)
-                    $("#submit-status").fadeIn();
-                },
                 success: function(msg){
                     $("#contact-form")[0].reset();
                     $("#submit-status").html(msg)
-                    $("#submit-status").fadeIn().delay(3000).fadeOut();
+                    $("#submit-status").fadeToggle().fadeIn().delay(3000).fadeOut();
                 },
                 error: function(msg){
                     $("#submit-status").html(msg)
-                    $("#submit-status").fadeIn().delay(3000).fadeOut();
+                    $("#submit-status").fadeToggle().fadeIn().delay(3000).fadeOut();
                 }
             });
         }

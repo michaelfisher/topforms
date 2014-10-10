@@ -151,6 +151,10 @@ body {
 }
 
 /*---Contact Form---*/
+.modal {
+	overflow-y: auto;
+}
+
 #contact .modal-header {
 	border: none;
 }
