@@ -7,7 +7,7 @@
 				Take a moment to read through our brochure. You'll learn just a few of the many reasons why concrete countertops may be exactly what you've been looking for.
 			</p>
 			<div class="info-button">
-				<a href="/dl/TopFormsBrochure.pdf" target="_blank" class="btn btn-primary">Download Brochure</a>
+				<a href="dl/TopFormsBrochure.pdf" target="_blank" class="btn btn-primary">Download Brochure</a>
 			</div>
 		</div>
 	</div>
