@@ -1,6 +1,17 @@
 <div id="info" class="col-xs-12">
 		
-	<div id="info-1" class="col-md-4">
+	<div id="about-us" class="col-md-6">
+		<div class="info-content">
+			<h2>About Us</h2>
+			<p>
+				Top Forms Concrete is based in Crossville, TN and provides the very best in customized concrete countertops to fit your personal home interior needs.
+			</p>
+			<div class="info-button">
+				<a href="#meet-the-owner" class="btn btn-primary">Meet The Owner</a>
+			</div>
+		</div>
+	</div>
+	<div id="learn-more" class="col-md-6">
 		<div class="info-content">
 			<h2>Learn More</h2>
 			<p>
@@ -11,26 +22,20 @@
 			</div>
 		</div>
 	</div>
-	<div id="info-2" class="col-md-4">
+	<div id="why-concrete" class="col-md-6">
 		<div class="info-content">
-			<h2>About Us</h2>
+			<h2>Why Concrete?</h2>
 			<p>
-				Ted is an awesome guy, and you should definitely hire him to custom make your countertops. Also, I have never once seen him pick his nose. So, he's got that going for him, too.
+				One of the primary benefits when choosing concrete over granite or engineered quartz is that every finished product has an appearance that is truly one of a kind. Granite is not only more expensive, but it is done in a cookie cutter fashion. This leaves the designs looking very much alike, and in today's interior design world they are quickly outdated and cliche. Finished concrete, however, is always beautiful and completely unique in its appearance. The look you choose will be absolutely exclusive to your home.
 			</p>
-			<div class="info-button">
-				<a class="btn btn-primary">Click Me!</a>
-			</div>
 		</div>
 	</div>
-	<div id="info-3" class="col-md-4">
+	<div id="meet-the-owner" class="col-md-6">
 		<div class="info-content">
-			<h2>Section 3</h2>
+			<h2>Ted Pelfrey - Owner</h2>
 			<p>
-				This is the information for Section 3. It could be the who, what, why, or how section. Maybe it would have a picture at the top, maybe not. I'd suggest using it to let potential customers learn about who you are and what you do.
+				Hi, I'm Ted Pelfrey and I'm excited to work with you to give your home the unique and personalized look you've dreamed about. Here at Top Forms Concrete, I do all my own work from start to finish right out of my shop in Crossville, TN. I have over 20 years experience in stone masonry, and I am a certified graduate of the <a href="http://www.concretecountertopinstitute.com/" target="_blank">Concrete Countertop Institute</a> out of Raleigh, NC. For the absolute best in custom concrete countertops call Top Forms Concrete at &#40;&#57;&#51;&#49;&#41;&#32;&#50;&#52;&#56;&#45;&#56;&#57;&#56;&#56;.
 			</p>
-			<div class="info-button">
-				<a class="btn btn-primary">Click Me!</a>
-			</div>
 		</div>
 	</div>
 

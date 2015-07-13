@@ -52,6 +52,10 @@
 					<div id="logo" class="col-xs-12 col-md-6">
 						<img class="pull-left" src="img/logos/logo.png"></img>
 					</div>
+					<div id="contact-number" class="col-xs-12 col-md-6">
+						<p>&#40;&#57;&#51;&#49;&#41;&#32;&#50;&#52;&#56;&#45;&#56;&#57;&#56;&#56;</p>
+						<!--<p>(931) 248-8988</p>-->
+					</div>
 					<div id="contact-button" class="col-xs-12 col-md-6">
 						<button class="btn btn-lg btn-primary pull-right" data-toggle="modal" data-target="#contact">Contact Us!</button>
 					</div>
