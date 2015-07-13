@@ -6,7 +6,6 @@
 		<?php include 'content/contact-modal.php'; ?>
 		<?php include 'content/slider.php'; ?>
 		<?php include 'content/info.php'; ?>
-		<?php include 'content/about.php'; ?>
 
 	</div><!--.row-->
 </div><!--#content-container-->
