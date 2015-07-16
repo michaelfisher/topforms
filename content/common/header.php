@@ -36,6 +36,10 @@
 		<!--Custom styles for this template-->
 		<link href="css/style.css" rel="stylesheet">
 
+		<!--Styles for UberGallery-->
+		<link rel="stylesheet" type="text/css" href="gallery/resources/UberGallery.css" />
+		<link rel="stylesheet" type="text/css" href="gallery/resources/colorbox/1/colorbox.css" />
+
 		<!--HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries-->
 		<!--[if lt IE 9]>
 			<script src="../../assets/js/html5shiv.js"></script>
