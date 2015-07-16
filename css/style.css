@@ -152,6 +152,41 @@ body {
 	border: 2px solid rgb(197, 198, 195);
 }
 
+/*Gallery*/
+#galleryWrapper {
+	padding: 0 30px;
+}
+
+#galleryContainer {
+	border-radius: 7px;
+	box-shadow: 3px 3px 10px rgba(0,0,0,0.50);
+	background-color: rgb(178,174,154);
+	border: 2px solid rgb(170, 170, 150);
+}
+
+#galleryList {
+	margin-bottom: 15px;
+	padding-bottom: 15px !important;
+}
+
+#galleryList h2 {
+	text-align: center;
+	font-family: "Vevey";
+	font-size: 4em; 
+}
+
+#galleryPagination {
+	color: inherit !important;
+}
+
+#galleryPagination li a {
+	color: inherit !important;
+}
+
+#galleryFooter {
+	border: none !important;
+}
+
 /*Footer*/
 #footer {
 	width: 100%;
