@@ -9,7 +9,7 @@
 
 #galleryList li {
     display: inline-block;
-    float: left;
+    /*float: left;*/
     list-style: none;
     margin: 5px 6px;
     padding: 0;

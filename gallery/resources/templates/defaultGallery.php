@@ -42,7 +42,7 @@
 
         <?php endif; ?>
 
-        <div id="credit">Powered by <a href="http://www.ubergallery.net">UberGallery</a></div>
+        <!--<div id="credit">Powered by <a href="http://www.ubergallery.net">UberGallery</a></div>-->
 
     </div>
 
